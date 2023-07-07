@@ -115,13 +115,28 @@
 											"top": 82,
 											"width": 197.44873046875,
 											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
+											"_id": "AAAAAAGJLQPuXzFY6Sc=",
+											"_parent": {
+												"$ref": "AAAAAAGJJ97pmf87v2Y="
+											},
+											"model": {
+												"$ref": "AAAAAAGJLQPuNTFV2ZU="
+											},
+											"font": "Arial;13;0",
+											"left": 717,
+											"top": 97,
+											"width": 197.44873046875,
+											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 712,
 									"top": 47,
 									"width": 207.44873046875,
-									"height": 53
+									"height": 68
 								}
 							],
 							"font": "Arial;13;0",
@@ -154,7 +169,7 @@
 									},
 									"font": "Arial;13;1",
 									"left": 16,
-									"top": 141,
+									"top": 133,
 									"width": 218.9951171875,
 									"height": 13,
 									"text": "INSTRUTOR"
@@ -180,7 +195,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 21,
-											"top": 164,
+											"top": 156,
 											"width": 208.9951171875,
 											"height": 13
 										},
@@ -195,7 +210,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 21,
-											"top": 179,
+											"top": 171,
 											"width": 208.9951171875,
 											"height": 13
 										},
@@ -210,21 +225,21 @@
 											},
 											"font": "Arial;13;0",
 											"left": 21,
-											"top": 194,
+											"top": 186,
 											"width": 208.9951171875,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 16,
-									"top": 159,
+									"top": 151,
 									"width": 218.9951171875,
 									"height": 53
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 16,
-							"top": 136,
+							"top": 128,
 							"width": 218.9951171875,
 							"height": 128,
 							"nameLabel": {
@@ -858,7 +873,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 14,
-									"top": 335,
+									"top": 327,
 									"width": 82.36083984375,
 									"height": 13,
 									"alpha": -0.6081727921996924,
@@ -894,7 +909,7 @@
 								"$ref": "AAAAAAGJJ+6M4P9IZsc="
 							},
 							"lineStyle": 2,
-							"points": "111:263;111:336;424:336",
+							"points": "111:255;111:336;424:336",
 							"nameLabel": {
 								"$ref": "AAAAAAGJKCo2OQGODBg="
 							},
@@ -1088,7 +1103,7 @@
 									"font": "Arial;13;1",
 									"left": 312,
 									"top": 29,
-									"width": 206.71875,
+									"width": 230.5859375,
 									"height": 13,
 									"text": "ENDERECO"
 								},
@@ -1104,6 +1119,21 @@
 									"subViews": [
 										{
 											"_type": "ERDColumnView",
+											"_id": "AAAAAAGJLT+sNjFlVjI=",
+											"_parent": {
+												"$ref": "AAAAAAGJKk1eRQKrknY="
+											},
+											"model": {
+												"$ref": "AAAAAAGJLT+sDTFiZOA="
+											},
+											"font": "Arial;13;0",
+											"left": 317,
+											"top": 52,
+											"width": 220.5859375,
+											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
 											"_id": "AAAAAAGJKk2wfgK5ZVE=",
 											"_parent": {
 												"$ref": "AAAAAAGJKk1eRQKrknY="
@@ -1113,8 +1143,8 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 52,
-											"width": 196.71875,
+											"top": 67,
+											"width": 220.5859375,
 											"height": 13
 										},
 										{
@@ -1128,8 +1158,8 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 67,
-											"width": 196.71875,
+											"top": 82,
+											"width": 220.5859375,
 											"height": 13
 										},
 										{
@@ -1143,8 +1173,8 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 82,
-											"width": 196.71875,
+											"top": 97,
+											"width": 220.5859375,
 											"height": 13
 										},
 										{
@@ -1158,8 +1188,8 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 97,
-											"width": 196.71875,
+											"top": 112,
+											"width": 220.5859375,
 											"height": 13
 										},
 										{
@@ -1173,23 +1203,23 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 112,
-											"width": 196.71875,
+											"top": 127,
+											"width": 220.5859375,
 											"height": 13
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 312,
 									"top": 47,
-									"width": 206.71875,
-									"height": 83
+									"width": 230.5859375,
+									"height": 98
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 312,
 							"top": 24,
-							"width": 206.71875,
-							"height": 106,
+							"width": 230.5859375,
+							"height": 121,
 							"nameLabel": {
 								"$ref": "AAAAAAGJKk1eRQKq1ys="
 							},
@@ -1214,7 +1244,7 @@
 										"$ref": "AAAAAAGJKlHFjwLmJRk="
 									},
 									"font": "Arial;13;0",
-									"left": 570,
+									"left": 582,
 									"top": 93,
 									"width": 89.62890625,
 									"height": 13,
@@ -1250,7 +1280,7 @@
 										"$ref": "AAAAAAGJKlHFjwLmJRk="
 									},
 									"font": "Arial;13;0",
-									"left": 543,
+									"left": 567,
 									"top": 92,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -1268,7 +1298,7 @@
 								"$ref": "AAAAAAGJJ97pmf85Bmo="
 							},
 							"lineStyle": 2,
-							"points": "712:84;518:84",
+							"points": "712:84;542:84",
 							"nameLabel": {
 								"$ref": "AAAAAAGJKlHFjwLnkJA="
 							},
@@ -1467,7 +1497,6 @@
 							},
 							"name": "cod_aluno",
 							"type": "INTEGER",
-							"length": "10",
 							"primaryKey": true
 						},
 						{
@@ -1489,6 +1518,16 @@
 							"name": "email",
 							"type": "VARCHAR",
 							"length": "70"
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGJLQPuNTFV2ZU=",
+							"_parent": {
+								"$ref": "AAAAAAGJJ97pmf83Hcg="
+							},
+							"name": "sexo",
+							"type": "CHAR",
+							"length": "1"
 						}
 					]
 				},
@@ -1539,7 +1578,6 @@
 							},
 							"name": "cod_instrutor",
 							"type": "INTEGER",
-							"length": "10",
 							"primaryKey": true
 						},
 						{
@@ -1559,7 +1597,7 @@
 								"$ref": "AAAAAAGJJ+6M3f9GUuY="
 							},
 							"name": "telefone",
-							"type": "BIGINT",
+							"type": "CHAR",
 							"length": "11"
 						}
 					]
@@ -1611,7 +1649,6 @@
 							},
 							"name": "cod_tipo",
 							"type": "INTEGER",
-							"length": "10",
 							"primaryKey": true
 						},
 						{
@@ -1673,8 +1710,8 @@
 							},
 							"name": "cod_curso",
 							"type": "INTEGER",
-							"length": "10",
-							"primaryKey": true
+							"primaryKey": true,
+							"unique": true
 						},
 						{
 							"_type": "ERDColumn",
@@ -1693,8 +1730,7 @@
 								"$ref": "AAAAAAGJJ+8cWP9j8z8="
 							},
 							"name": "valor",
-							"type": "DOUBLE",
-							"length": "10"
+							"type": "DOUBLE"
 						},
 						{
 							"_type": "ERDColumn",
@@ -1773,7 +1809,6 @@
 							},
 							"name": "cod_compra",
 							"type": "INTEGER",
-							"length": "10",
 							"primaryKey": true
 						},
 						{
@@ -1803,7 +1838,6 @@
 							},
 							"name": "cod_aluno",
 							"type": "INTEGER",
-							"length": "10",
 							"foreignKey": true
 						}
 					]
@@ -1824,7 +1858,6 @@
 							},
 							"name": "cod_compra",
 							"type": "INTEGER",
-							"length": "10",
 							"foreignKey": true,
 							"referenceTo": {
 								"$ref": "AAAAAAGJJ/Z+UQB3d50="
@@ -1838,7 +1871,6 @@
 							},
 							"name": "cod_curso",
 							"type": "INTEGER",
-							"length": "10",
 							"foreignKey": true,
 							"referenceTo": {
 								"$ref": "AAAAAAGJJ/VrowAkZUk="
@@ -1851,8 +1883,7 @@
 								"$ref": "AAAAAAGJJ+9t8f9+SCM="
 							},
 							"name": "valor",
-							"type": "DOUBLE",
-							"length": "10"
+							"type": "DOUBLE"
 						}
 					]
 				},
@@ -1872,6 +1903,17 @@
 					},
 					"name": "ENDERECO",
 					"columns": [
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGJLT+sDTFiZOA=",
+							"_parent": {
+								"$ref": "AAAAAAGJKk1eRQKnqdg="
+							},
+							"name": "cod_endereco",
+							"type": "INTEGER",
+							"length": 0,
+							"primaryKey": true
+						},
 						{
 							"_type": "ERDColumn",
 							"_id": "AAAAAAGJKk2wbQK2dmM=",
