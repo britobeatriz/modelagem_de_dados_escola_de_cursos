@@ -49,6 +49,9 @@ CREATE TABLE endereco
     FOREIGN KEY (cod_endereco) REFERENCES aluno(cod_aluno)
 );
 
+ALTER TABLE endereco 
+ADD COLUMN cod_aluno int not null;
+
 CREATE TABLE compra
 (
 	cod_compra int not null auto_increment unique,
